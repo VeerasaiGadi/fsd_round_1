@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: aqua;
+}
+
+
+#start{
+	text-decoration: none;
+	margin-left:40px;
+	color: black;
+	font-size: 20px;
+    /* display: inline !important; */
+}
+
+/* a{
+    display: inline;
+}
+
+.one{
+    font-family: serif;
+    font-weight: bold;
+    float: left;
+    background-color:white;
+    height: 750px;
+    width:800px;
+    box-sizing: border-box;
+    border: 1px solid red;
+}
+.two{
+    float:right;
+    background: url('1.jpg') !important;
+    height: 800px;
+    width:800px;
+    background-size:100% !important;
+    background-repeat: no-repeat !important;
+    box-sizing: border-box;
+    background-color: aqua;
+    border: 1px solid red;
+
+
+
+}
+.three{
+
+} */
